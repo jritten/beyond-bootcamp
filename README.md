@@ -1,18 +1,21 @@
 # Jenna's Super Bootcamp Starter-Kit!
 
-Bootcamp Setup
+[Bootcamp Setup](bootcamp_setup.md)
 
+[Dev Setup](dev_setup.md)
 
-Resources
+[Cheat Sheets](cheat_sheets.md)
 
+[Coding Games](coding_games.md)
 
-Beyond Bootcamp Program Work
+[Pair-Programming Guide](pair_programming.md)
 
+[Self-Study Guide](self_study.md)
 
-Coding Games
+[Tutorials](tutorials.md)
 
+[Coding Challenges](coding_challenges.md)
 
-Interview Prep
+[Interview Prep](interview_prep.md)
 
-
-Pair-Programming Guide
+[Resources](resources.md)
