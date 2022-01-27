@@ -19,3 +19,9 @@
 [Interview Prep](interview_prep.md)
 
 [Resources](resources.md)
+
+
+To-Do:
+GitHub
+LinkedIn
+Portfolio
