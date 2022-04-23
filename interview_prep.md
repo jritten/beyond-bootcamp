@@ -12,7 +12,7 @@
 
 [Triplebyte](https://triplebyte.com)
 
-# Coding Challenge Prep
+## Coding Challenge Prep
 
 Cracking the Coding Interview - pdf online
 
